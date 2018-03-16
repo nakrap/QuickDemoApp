@@ -1,0 +1,2 @@
+# QuickDemoApp
+InClass project
